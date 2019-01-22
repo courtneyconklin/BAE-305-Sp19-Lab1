@@ -34,5 +34,6 @@ The goal of this lab was to become familiar with how to use multiple pieces of e
 9. Measured the frequency and amplitude of the sine wave on the oscilloscope by using the Generic DMM and Fluke DMM. 
 # Test Results
 ![](IMG_1567.jpg)
+![](IMG_1567.jpeg)
 # Discussion
 The measurements that were gotten from each of the electronic equipment overall had very similar values to the expected values with only a slight variation. The Fluke and generic DMMs measured resistances that were within range of the calculated resistance values from the color band. The measured voltages from the DMMs on the D.C power supply were close to the voltage readings on the actual D.C power supply. Based on the data from the experiment, all of the instruments agreed with each other and the expected values. The lab successfully allowed for practice on using the equipment and becoming familiar with all of it.  
